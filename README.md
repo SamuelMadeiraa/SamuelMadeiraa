@@ -9,6 +9,8 @@ Olá! Meu nome é Samuel Madeira, e sou estudante do 2º semestre de **Análise 
 Estas são as tecnologias e ferramentas que utilizo no meu dia a dia:  
 - **Linguagens de Programação**: Python, Ruby  
 - **Frameworks e Bibliotecas**: Ruby on Rails  
+- **Bancos de Dados**: SQL, PostgreSQL
+- **Sistemas Operacionais**: Linux  
 - **Testes Automatizados**: RSpec (Ruby on Rails), unittest e pytest (Python)  
 - **Front-end**: HTML, CSS, Tailwind CSS, Bootstrap  
 - **Controle de Versão**: Git  
