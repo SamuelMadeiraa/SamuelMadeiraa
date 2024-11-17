@@ -26,7 +26,7 @@ Estas são as tecnologias e ferramentas que utilizo no meu dia a dia:
 ---
 
 ### 🌟 Projetos em Destaque
-- **[Nome do Projeto 1](#)**: CRUD completo com Ruby on Rails, implementando TDD com RSpec e design responsivo usando Tailwind CSS.  
+- **[Nome do Projeto 1](https://github.com/SamuelMadeiraa/Cadastro)**: CRUD completo com Ruby on Rails, implementando TDD com RSpec e design responsivo usando Tailwind CSS.  
 - **[Nome do Projeto 2](#)**: Sistema de gerenciamento de estoque desenvolvido em Python, incluindo relatórios detalhados e cobertura de testes com unittest e pytest.  
 - **[Nome do Projeto 3](#)**: Página web estilizada e responsiva usando Bootstrap, ideal para aprendizado de design de interfaces.  
 
