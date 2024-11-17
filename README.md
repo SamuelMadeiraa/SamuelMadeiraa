@@ -20,7 +20,7 @@ Estas são as tecnologias e ferramentas que utilizo no meu dia a dia:
 
 ### 📚 Atualmente Aprendendo
 - **Desenvolvimento Web Full Stack** com Ruby on Rails
-- **Desenvolvimento de sofware ** com Python
+- **Desenvolvimento Sofware** com Pyhon
 - **Test-Driven Development (TDD)** em Ruby on Rails (RSpec) e Python (pytest)  
 - **Design Responsivo** utilizando Tailwind CSS e Bootstrap  
 - **Gerenciamento de Ambientes de Desenvolvimento** com Docker  
