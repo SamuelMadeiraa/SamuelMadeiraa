@@ -1,42 +1,41 @@
 # 💻 Samuel Madeira
 
 ### 🧑‍🎓 Sobre Mim
-Olá! Meu nome é Samuel Madeira e estou no 2º semestre da faculdade, explorando o mundo do desenvolvimento de software. Sou apaixonado por tecnologia e estou sempre buscando aprender e criar projetos que me desafiem a crescer como desenvolvedor.
+Olá! Meu nome é Samuel Madeira, e sou estudante do 2º semestre de **Análise e Desenvolvimento de Sistemas**. Tenho paixão por tecnologia e desenvolvimento de software, e estou sempre em busca de novos desafios para evoluir minhas habilidades. Meu foco atual é criar projetos funcionais e bem estruturados, aplicando as melhores práticas de programação.
 
 ---
 
 ### 🚀 Tecnologias e Ferramentas
-Atualmente, trabalho com:
-- **Linguagens de Programação**: Python, Ruby
-- **Frameworks**: Ruby on Rails
-- **Front-end**: HTML, CSS, Tailwind CSS, Bootstrap
-- **Versionamento**: Git
-- **Containers**: Docker
+Estas são as tecnologias e ferramentas que utilizo no meu dia a dia:  
+- **Linguagens de Programação**: Python, Ruby  
+- **Frameworks e Bibliotecas**: Ruby on Rails  
+- **Front-end**: HTML, CSS, Tailwind CSS, Bootstrap  
+- **Controle de Versão**: Git  
+- **Containers**: Docker  
 
 ---
 
-### 📚 O que estou aprendendo agora
-- Desenvolvimento web avançado com Ruby on Rails
-- Boas práticas de versionamento com Git
-- Princípios de design responsivo com frameworks como Tailwind e Bootstrap
-- Docker para gerenciar ambientes de desenvolvimento e produção
+### 📚 Atualmente Aprendendo
+- **Desenvolvimento Web Full Stack** com Ruby on Rails  
+- **Design Responsivo** utilizando Tailwind CSS e Bootstrap  
+- **Gerenciamento de Ambientes de Desenvolvimento** com Docker  
+- **Boas Práticas e Controle de Versão** com Git  
 
 ---
 
-### 🌱 Projetos em Destaque
-- **[Nome do Projeto 1](#)**: Breve descrição do projeto (exemplo: um CRUD completo com Rails e Tailwind).
-- **[Nome do Projeto 2](#)**: Breve descrição do projeto (exemplo: sistema de gerenciamento de estoque em Python).
-- **[Nome do Projeto 3](#)**: Breve descrição do projeto (exemplo: página web estilizada com Bootstrap).
+### 🌟 Projetos em Destaque
+- **[Nome do Projeto 1](#)**: Um CRUD completo com Ruby on Rails, implementando funcionalidades de autenticação e responsividade com Tailwind CSS.  
+- **[Nome do Projeto 2](#)**: Sistema de gerenciamento de estoque desenvolvido em Python, incluindo relatórios detalhados e rastreamento de produtos.  
+- **[Nome do Projeto 3](#)**: Página web estilizada e responsiva usando Bootstrap, ideal para aprendizado de design de interfaces.  
 
 ---
 
-### 🌐 Conecte-se comigo
-Se você tem interesse em colaborar ou trocar ideias, sinta-se à vontade para me contatar:
-
-- 📧 **E-mail**: [seuemail@email.com](mailto:seuemail@email.com)
-- 🌐 **LinkedIn**: [seu-perfil-linkedin](#)
-- 🐙 **GitHub**: [seu-perfil-github](#)
+### 🌐 Conecte-se Comigo
+Vamos trocar ideias ou colaborar em projetos! Você pode me encontrar aqui:  
+- 📧 **E-mail**: [seuemail@email.com](mailto:seuemail@email.com)  
+- 🌐 **LinkedIn**: [linkedin.com/in/seu-perfil](#)  
+- 🐙 **GitHub**: [github.com/seu-perfil](#)  
 
 ---
 
-Obrigado por visitar meu perfil! 🚀 Vamos construir algo incrível juntos. 🎉
+Obrigado por visitar meu perfil! 🚀 Vamos construir soluções incríveis juntos. 🎉
