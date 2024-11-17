@@ -1,7 +1,7 @@
 # 💻 Samuel Madeira
 
 ### 🧑‍🎓 Sobre Mim
-Olá! Meu nome é Samuel Madeira, e sou estudante do 2º semestre de **Análise e Desenvolvimento de Sistemas**. Tenho paixão por tecnologia e desenvolvimento de software, e estou sempre em busca de novos desafios para evoluir minhas habilidades. Meu foco atual é criar projetos funcionais e bem estruturados, aplicando as melhores práticas de programação.
+Olá! Meu nome é Samuel Madeira, e sou estudante do 2º semestre de **Análise e Desenvolvimento de Sistemas**. Tenho paixão por tecnologia e desenvolvimento de software, e estou sempre em busca de novos desafios para evoluir minhas habilidades. Meu foco atual é criar projetos funcionais e bem estruturados, aplicando as melhores práticas de programação, incluindo **TDD (Test-Driven Development)**.
 
 ---
 
@@ -9,6 +9,7 @@ Olá! Meu nome é Samuel Madeira, e sou estudante do 2º semestre de **Análise 
 Estas são as tecnologias e ferramentas que utilizo no meu dia a dia:  
 - **Linguagens de Programação**: Python, Ruby  
 - **Frameworks e Bibliotecas**: Ruby on Rails  
+- **Testes Automatizados**: RSpec (Ruby on Rails), unittest e pytest (Python)  
 - **Front-end**: HTML, CSS, Tailwind CSS, Bootstrap  
 - **Controle de Versão**: Git  
 - **Containers**: Docker  
@@ -17,6 +18,7 @@ Estas são as tecnologias e ferramentas que utilizo no meu dia a dia:
 
 ### 📚 Atualmente Aprendendo
 - **Desenvolvimento Web Full Stack** com Ruby on Rails  
+- **Test-Driven Development (TDD)** em Ruby on Rails (RSpec) e Python (pytest)  
 - **Design Responsivo** utilizando Tailwind CSS e Bootstrap  
 - **Gerenciamento de Ambientes de Desenvolvimento** com Docker  
 - **Boas Práticas e Controle de Versão** com Git  
@@ -24,8 +26,8 @@ Estas são as tecnologias e ferramentas que utilizo no meu dia a dia:
 ---
 
 ### 🌟 Projetos em Destaque
-- **[Nome do Projeto 1](#)**: Um CRUD completo com Ruby on Rails, implementando funcionalidades de autenticação e responsividade com Tailwind CSS.  
-- **[Nome do Projeto 2](#)**: Sistema de gerenciamento de estoque desenvolvido em Python, incluindo relatórios detalhados e rastreamento de produtos.  
+- **[Nome do Projeto 1](#)**: CRUD completo com Ruby on Rails, implementando TDD com RSpec e design responsivo usando Tailwind CSS.  
+- **[Nome do Projeto 2](#)**: Sistema de gerenciamento de estoque desenvolvido em Python, incluindo relatórios detalhados e cobertura de testes com unittest e pytest.  
 - **[Nome do Projeto 3](#)**: Página web estilizada e responsiva usando Bootstrap, ideal para aprendizado de design de interfaces.  
 
 ---
