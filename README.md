@@ -30,7 +30,6 @@ Estas são as tecnologias e ferramentas que utilizo no meu dia a dia:
 ### 🌟 Projetos em Destaque
 - **[Sistema de Cadastro escolar](https://github.com/SamuelMadeiraa/Cadastro)**: CRUD completo com Ruby on Rails, implementando TDD com RSpec e design responsivo usando BootStrap 5.  
 - **[Caculadora IMC](https://github.com/SamuelMadeiraa/CalculadoraIMC)**: Calculadora IMC em Python, com cobertura de testes com pytest.  
-- **[Nome do Projeto 3](#)**: Página web estilizada e responsiva usando Bootstrap, ideal para aprendizado de design de interfaces.  
 
 ---
 
