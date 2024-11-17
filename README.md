@@ -34,9 +34,8 @@ Estas são as tecnologias e ferramentas que utilizo no meu dia a dia:
 
 ### 🌐 Conecte-se Comigo
 Vamos trocar ideias ou colaborar em projetos! Você pode me encontrar aqui:  
-- 📧 **E-mail**: [seuemail@email.com](samuelmadeiradev@gmail.com)  
-- 🌐 **LinkedIn**: [linkedin.com/in/seu-perfil](#)  
-- 🐙 **GitHub**: [github.com/seu-perfil](#)  
+- 📧 **E-mail**: [samuelmadeiradev@gmail.com](samuelmadeiradev@gmail.com)  
+- 🐙 **GitHub**: [https://github.com/SamuelMadeiraa](#)  
 
 ---
 
